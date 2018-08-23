@@ -1,0 +1,62 @@
+body {
+font-family: verdana, sans-serif;
+font-size: 12px;
+color: ffffff;
+}
+
+a {
+color: #ffffff;
+font-weight:bold;
+text-decoration: none;
+}
+
+a:hover {
+color: #00aa00;
+font-weight:bold;
+text-decoration: none;
+}
+
+img {
+border: none;
+}
+
+h1 {
+font-family: verdana, sans-serif;
+font-size: 13px;
+color: #006600;
+font-weight: bold;
+text-decoration: none;
+}
+
+h2 {
+font-family: arial, sans-serif;
+font-size: 10px;
+color: aaaaaa;
+}
+
+h3 {
+font-family: verdana, sans-serif;
+font-size: 12px;
+color: ffffff;
+font-weight: normal;
+}
+
+hr {
+color: #000000;
+}
+
+.tdhorz {
+background: url(images/border-horz.jpg) repeat;
+width: 950px;
+height: 20px;
+}
+
+.tdvert {
+background: url(images/border-vert.jpg) repeat;
+width: 20px;
+height: 20px;
+}
+
+.comic {
+border: 2px #006600 solid;
+}
